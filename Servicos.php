@@ -1,15 +1,6 @@
-<html>
-<head>
-    <title> Serviços </title>
-</head>
-<body>
+<?php require_once("menu.php"); ?>
 
-<?php require_once("index.php"); ?>
+<h3> Nossos serviços </h3>
 
-<div>
-    <h3> Nossos serviços </h3>
-</div>
-<?php require_once("Direitos.php"); ?>
-</body>
+<?php require_once("rodape.php"); ?>
 
-</html>

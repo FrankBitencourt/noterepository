@@ -1,16 +1,6 @@
+<?php require_once("menu.php"); ?>
 
-<html>
-<head>
-    <title> Produtos </title>
-</head>
-<body>
-
-<?php require_once("index.php"); ?>
-
-<div>
 <h3> Nossos Produtos</h3>
-</div>
 
-<?php require_once("Direitos.php"); ?>
-</body>
-</html>
+<?php require_once("rodape.php"); ?>
+
