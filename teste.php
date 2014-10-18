@@ -1,2 +1,0 @@
-<?php php.info(); ?>
-<?="Teste";?>
