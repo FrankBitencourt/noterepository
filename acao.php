@@ -1,5 +1,5 @@
 <?php require_once("header.php"); ?>
-<h3><span class="label label-success"><strong>Dados enviados com sucesso, abaixo seguem os dados que você enviou</strong></span></h3>
+<h4><span class="label label-success"><strong>Dados enviados com sucesso, abaixo seguem os dados que você enviou</strong></span></h4>
 <?php
 
 echo "<br \>Seu Nome: <br\>\n";
